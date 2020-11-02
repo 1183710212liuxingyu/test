@@ -1,5 +1,5 @@
 <?php
 
-phpinfo();
+9898u
 
 dfdfv
